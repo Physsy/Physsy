@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Physsy
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning kali
+- 👀 I’m interested in backend dev
+- 🌱 I’m currently learning how servers work
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me yungphyssy10@gmail.com
 
