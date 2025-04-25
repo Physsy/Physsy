@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="pic0">
+            <img src="./img/coolz.jpg" alt="zoro">
+         </div>
+    </header>
+    <main>
+       <table>
+        <tr>
+            <th>name</th>
+            <td>Roronoa Zoro</td>
+        </tr>
+        <tr>
+            <th>alias</th>
+            <td>bouty hunter</td>
+        </tr>
+        <tr>
+            <th>source</th>
+            <td>pirate</td>
+        </tr>
+        <tr>
+            <th>Affiliations</th>
+        <td>
+            Straw Hat Pirates (combatant / swordsman)<br>
+            Worst Generation (member)
+        </td>
+        </tr>
+        <tr>
+            <th>age</th>
+            <td>19(debut)<br>21(after time skip)</td>
+        </tr>
+        <tr>
+            <th>weapon</th>
+            <td>3 katana</td>
+        </tr>
+        <tr>
+            <th>bounty</th>
+            <td>ß1,111,000,000</td>
+        </tr>
+    </table> 
+    <details>
+        <summary>character</summary>
+   <strong>Zoro</strong> is confident but often acts in a very comical manner. A running gag is that he has a terrible sense of direction (being capable of getting lost even while walking in a straight line) which he is very insecure about since he never admits when he gets lost, instead always blaming someone else. While the crew is out at sea, Zoro can (usually) be found sleeping or training towards his goal of becoming the world's best <strong>Swordsman</strong>.<br>
+   <div class="pic1"><img src="./img/Roronoa_Zoro.png" alt="zoro"></div>
+    </details>
+    <details>
+        <summary>personality</summary>
+        <strong>Zoro</strong> has a stern, serious, and distanced personality, but unlike <strong>Robin</strong>, he often reacts in a goofy and exaggerated comic style due to his short-tempered and impatient attitude. On the ship, he normally either trains with weights or sleeps.
+        Despite his stern personality, Zoro had a strong sense of loyalty and mutual respect towards his crewmates when accomplishing their dreams. After his humiliating loss to <strong>Dracule Mihawk</strong>, Zoro pledged his loyalty to <strong>Luffy</strong> as his captain.
+        <div class="pic2">
+            <img src="./img/Rzoro_1.jpg" alt="">
+        </div>
+    </details>
+    <details>
+        <summary>Haki(power)</summary>
+        He is proficient in Armament and Observation <strong>Haki</strong> and is one of the few known characters who possess Conquerors <strong>Haki</strong>. During his battle against <strong>King</strong>, <strong>Haki</strong> unlocks an advanced form of Conqueror Haki, which allows him to coat his swords with it, similar to Armament Haki, which could further enhance his attacks.
+        <div class="pic3">
+            <img src="./img/zoro.jpg" alt="">
+        </div>
+    </details>
+    </main>
+</body>
+</html>
